@@ -1,0 +1,15 @@
+{
+  "name": "loved-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Love never ends",
+  "keywords": [
+    "dark",
+    "syntax"
+  ],
+  "repository": "https://github.com/DanielPintilei/atom-loved-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  }
+}
