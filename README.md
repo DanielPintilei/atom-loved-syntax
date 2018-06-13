@@ -1,5 +1,5 @@
 ## Loved Syntax theme
-Dark syntax theme inspired by [this beautiful image](http://www.handlettering.co/1-john4-19).
+Dark syntax theme inspired by [this beautiful image](https://web.archive.org/web/20150407192002/www.handlettering.co/1-john4-19).
 
 ![loved-syntax-css](https://raw.githubusercontent.com/DanielPintilei/atom-loved-syntax/screenshots/screenshots/loved-syntax-css.png)
 
